@@ -49,42 +49,26 @@ public class LinkedList {
         return indexOf(item) != -1;
     }
 
-    // removeFirst() is implemented here
-    public void removeFirst() {
-        if (isEmpty())
-            throw new NoSuchElementException();
-
-        if (first == last)
-            first = last = null;
-        else {
-            var second = first.next;
-            first.next = null;
-            first = second;
-        }
-    }
-
     // removeLast() is implemented here
     public void removeLast() {
-        // [10 -> 20 -> 30]
-        // previous = 10
-        // last = 20
-
         if (isEmpty())
             throw new NoSuchElementException();
+
+        if (first == last) {
+            first = last = null;
+            return;
+        }
 
         var previous = getPrevious(last);
         last = previous;
         last.next = null;
-
-
     }
 
-    private Object getPrevious(Node node) {
+    private Node getPrevious(Node node) {
         var current = first;
-        while (current != null) {
-            if (current.next == node)
-                return current;
 
+        while (current != null) {
+            if (current.next == node) return current;
             current = current.next;
         }
 
