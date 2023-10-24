@@ -1,13 +1,24 @@
 public class LinkedList {
-    private int first;
+    private static class Node {
+        private final int value;
+        private Node next;
+
+        public Node(int value) {
+            this.value = value;
+        }
+    }
+
+    private Node first;
     private Node last;
 
-    // addFirst:
+    public void addLast(int item) {
+        var node = new Node(item);
 
-
-    // addLast:
-    // removeFirst:
-    // removeLast:
-    // contains:
-    // indexOf:s
+        if (first == null)
+            first = last = node;
+        else {
+            last.next = node;
+            last = node;
+        }
+    }
 }
