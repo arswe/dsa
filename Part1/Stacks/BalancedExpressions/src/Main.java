@@ -1,10 +1,23 @@
 public class Main {
     public static void main(String[] args) {
-        // balance expression
-        String expression = "(1 + 2)";
+        // Edge cases
+        String str = "( ( ( ) ) )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+        str = "( ( ( ) )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+        str = "( ( ( ) ) ) )";
 
-        BalanceExpression balanceExpression = new BalanceExpression();
-        var result = balanceExpression.isBalanced(expression);
-        System.out.println(result);
+        // Normal cases
+        str = "( ( ( ) ) )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+        str = "( ( ( ) ) ) ( )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+
+        // Invalid cases
+        str = "( ( ( ) ) ) )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+        str = "( ( ( ) ) ) ( ) )";
+        System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
+
     }
 }
