@@ -3,7 +3,7 @@ public class Main {
         String str = "abcd";
 
         StringReverser reverser = new StringReverser();
-        var result = reverser.reverse(str);
+        var result = reverser.reverse(null);
 
         System.out.println(result);
     }

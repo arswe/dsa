@@ -1,7 +1,13 @@
+import com.sun.jdi.connect.IllegalConnectorArgumentsException;
+
 import java.util.Stack;
 
 public class StringReverser {
     public String reverse(String input) {
+
+        if (input == null)
+            throw new IllegalArgumentException();
+
         Stack<Character> stack = new Stack<>();
 
         for (char ch : input.toCharArray())
