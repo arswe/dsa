@@ -19,5 +19,8 @@ public class Main {
         str = "( ( ( ) ) ) ( ) )";
         System.out.println(str + " is balanced? " + new BalanceExpression().isBalanced(str));
 
+
+
+
     }
 }

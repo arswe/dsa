@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BalancedExpressions/BalancedExpressions.iml" filepath="$PROJECT_DIR$/BalancedExpressions/BalancedExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreateStack/CreateStack.iml" filepath="$PROJECT_DIR$/CreateStack/CreateStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversingAString/ReversingAString.iml" filepath="$PROJECT_DIR$/ReversingAString/ReversingAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stacks.iml" filepath="$PROJECT_DIR$/.idea/Stacks.iml" />
+    </modules>
+  </component>
+</project>
