@@ -10,8 +10,6 @@ public class Main {
 
         queue.enqueue(40);
         queue.enqueue(50);
-        queue.enqueue(60);
-        queue.enqueue(70);
         System.out.println(front);
         System.out.println(queue);
 
