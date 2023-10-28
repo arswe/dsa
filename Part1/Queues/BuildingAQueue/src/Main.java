@@ -4,8 +4,10 @@ public class Main {
         queue.enqueue(10);
         queue.enqueue(20);
         queue.enqueue(30);
+        queue.enqueue(40);
 
         var front = queue.dequeue();
+
         System.out.println(front);
         System.out.println(queue);
 
