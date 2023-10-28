@@ -8,6 +8,8 @@ public class Main {
         queue.add(20);
         queue.add(30);
 
+        var front = queue.remove();
+        System.out.println(front);
         System.out.println(queue);
     }
 }
