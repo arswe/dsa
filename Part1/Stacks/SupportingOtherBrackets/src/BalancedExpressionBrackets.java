@@ -5,21 +5,30 @@ public class BalancedExpressionBrackets {
         // Supporting Other Brackets
         Stack<Character> stack = new Stack<>();
         for (char ch : expression.toCharArray()) {
-            if (ch == '(' || ch == '<' || ch == '[' || ch == '{') {
+            if (isLeftBracket(ch)) {
                 stack.push(ch);
             }
-            if (ch == ')' || ch == '>' || ch == ']' || ch == '}') {
+            if (isRightBracket(ch)) {
                 if (stack.isEmpty()) return false;
                 var top = stack.pop();
-                if (
-                        (ch == ')' && top != '(') ||
-                                (ch == '>' && top != '<') ||
-                                (ch == ']' && top != '[') ||
-                                (ch == '}' && top != '{')
-                )
-                    return false;
+                if (BracketMatch(top, ch)) return false;
             }
         }
         return stack.isEmpty();
+    }
+
+    private boolean isLeftBracket(char ch) {
+        return ch == '(' || ch == '<' || ch == '[' || ch == '{';
+    }
+
+    private boolean isRightBracket(char ch) {
+        return ch == ')' || ch == '>' || ch == ']' || ch == '}';
+    }
+
+    private boolean BracketMatch(char left, char right) {
+        return (right == ')' && left != '(') ||
+                (right == '>' && left != '<') ||
+                (right == ']' && left != '[') ||
+                (right == '}' && left != '{');
     }
 }
