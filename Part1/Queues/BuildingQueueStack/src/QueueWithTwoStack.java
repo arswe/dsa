@@ -16,6 +16,14 @@ public class QueueWithTwoStack {
         return stack2.pop();
     }
 
+    public int peek() {
+        if (isEmpty())
+            throw new IllegalStateException();
+
+        moveStack1ToStack2();
+        return stack2.peek();
+    }
+
     private void moveStack1ToStack2() {
         if (stack2.isEmpty())
             while (!stack1.isEmpty())
@@ -25,4 +33,6 @@ public class QueueWithTwoStack {
     private boolean isEmpty() {
         return stack1.isEmpty() && stack2.isEmpty();
     }
+
+
 }
