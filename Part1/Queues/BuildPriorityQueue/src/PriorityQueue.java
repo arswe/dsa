@@ -5,20 +5,23 @@ public class PriorityQueue {
     private int count;
 
     public void add(int item) {
-
         if (count == items.length)
             throw new IllegalStateException();
 
+        var i = shiftItemsToInsert(item);
+        items[i] = item;
+        count++;
+    }
 
+    public int shiftItemsToInsert(int item) {
         int i;
-        for (i = count - 1; i >= 0; i--) {
+        for (i = count - 1; i > 0; i--) {
             if (items[i] > item)
                 items[i + 1] = items[i];
             else
                 break;
         }
-        items[i + 1] = item;
-        count++;
+        return i;
     }
 
     public int remove() {
