@@ -15,8 +15,6 @@ public class Tree {
     }
 
     private Node root;
-
-
     public void insert(int value) {
         var node = new Node(value); // create a new Node object
 
@@ -25,8 +23,7 @@ public class Tree {
             return;
         }
 
-        var current = root;
-
+        var current = root; // current is a reference to another Node object
         while (true) {
             if (value < current.value) {
                 if (current.leftChild == null) {
