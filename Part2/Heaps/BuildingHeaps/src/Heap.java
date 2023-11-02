@@ -14,6 +14,7 @@ public class Heap {
         return size == items.length;
     }
 
+    // bubbleUp() is a helper method for insert().
     private void bubbleUp() {
         var index = size - 1;
         while (index > 0 && items[index] > items[parent(index)]) {
