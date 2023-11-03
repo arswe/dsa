@@ -64,12 +64,11 @@ public class Trie {
     }
 
     private void traverse(Node root) {
-        // Pre-order
-        System.out.println(root.value);
-
         for (var child : root.getChildren())
             traverse(child);
 
+        // Post-order
+        System.out.println(root.value);
 
     }
 }
