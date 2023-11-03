@@ -3,13 +3,11 @@ public class Main {
         Trie trie = new Trie();
         trie.insert("car");
         trie.insert("card");
+        trie.insert("care");
+        trie.insert("careful");
+        trie.insert("egg");
 
-        trie.remove("car");
-
-        System.out.println(trie.contains("car"));
-        System.out.println(trie.contains("card"));
-
-
-
+        var words = trie.findWords("car");
+        System.out.println(words);
     }
 }
