@@ -5,7 +5,8 @@ public class Main {
         trie.insert("care");
 
         trie.remove("car");
-
+        System.out.println(trie.contains("car"));
+        System.out.println(trie.contains("care"));
 
     }
 }
