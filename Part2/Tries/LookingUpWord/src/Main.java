@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Trie trie = new Trie();
+        trie.insert("car");
+        trie.insert("care");
+
+        System.out.println(trie.contains(null));
     }
 }
