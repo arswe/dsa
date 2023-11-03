@@ -5,6 +5,7 @@ import java.util.List;
 public class Trie {
     public static int ALPHABET_SIZE = 26;
 
+    // Node
     private class Node {
         private char value;
         private HashMap<Character, Node> children = new HashMap<>();
@@ -44,6 +45,7 @@ public class Trie {
         }
     }
 
+    // Trie im
     private Node root = new Node(' ');
 
     public void insert(String word) {
@@ -165,6 +167,7 @@ public class Trie {
         return countWords(root);
     }
 
+    // countWords - helper method for countWords
     private int countWords(Node root) {
         var total = 0;
 
@@ -177,10 +180,12 @@ public class Trie {
         return total;
     }
 
+    // printWords - helper method for printWords
     public void printWords() {
         printWords(root, "");
     }
 
+    // printWords - helper method for printWords
     private void printWords(Node root, String word) {
         if (root.isEndOfWord)
             System.out.println(word);
@@ -189,7 +194,7 @@ public class Trie {
             printWords(child, word + child.value);
     }
 
-
+    // longestCommonPrefix - helper method for longestCommonPrefix
     public static String longestCommonPrefix(String[] words) {
         if (words == null)
             return "";
@@ -212,6 +217,7 @@ public class Trie {
         return prefix.toString();
     }
 
+    // getShortest - helper method for longestCommonPrefix
     private static String getShortest(String[] words) {
         if (words == null || words.length == 0)
             return "";
