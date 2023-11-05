@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b12fed2-cd55-49b5-8bb5-76efec9798ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DijkstraSPA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" afterDir="false" />
@@ -48,6 +47,8 @@
       <change beforePath="$PROJECT_DIR$/../../Tries/AutoCompletion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tries/AutoCompletion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tries/LookingUpWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tries/LookingUpWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tries/Traversals/src/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tries/Traversals/src/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

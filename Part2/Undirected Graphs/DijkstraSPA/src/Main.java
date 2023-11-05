@@ -1,5 +1,14 @@
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Dijkstra's Shortest Path Algorithm");
+        // Dijkstra's Algorithm Formulation
+
+        // A -> B -> C -> D -> E: 8
+        // A -> C -> D -> E: 7
+        // A -> D -> E: 5
+
+        // A -> B -> C -> D -> E: 8
+        // A -> B -> D -> E: 6
+        // A -> B -> D -> E: 6
     }
 }
