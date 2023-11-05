@@ -17,6 +17,10 @@ public class WeightedGraph {
         public void addEdge(Node to, int weight) {
             edges.add(new Edge(this, to, weight));
         }
+
+        public List<Edge> getEdges() {
+            return edges;
+        }
     }
 
     private class Edge {
@@ -61,7 +65,7 @@ public class WeightedGraph {
     // Print()
     public void print() {
         for (var node : nodes.values()) {
-            var edges = node.edges;
+            var edges = node.getEdges();
             if (!edges.isEmpty())
                 System.out.println(node + " is connected to " + edges);
         }
