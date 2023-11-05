@@ -85,6 +85,9 @@ public class WeightedGraph {
         var fromNode = nodes.get(from);
         var toNode = nodes.get(to);
 
+        if (fromNode == null || toNode == null)
+            throw new IllegalArgumentException();
+
         Map<Node, Integer> distances = new HashMap<>();
         for (var node : nodes.values())
             distances.put(node, Integer.MAX_VALUE);
