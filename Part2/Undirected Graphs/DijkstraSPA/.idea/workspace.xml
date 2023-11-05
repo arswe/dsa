@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b12fed2-cd55-49b5-8bb5-76efec9798ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" afterDir="false" />
@@ -48,7 +49,6 @@
       <change beforePath="$PROJECT_DIR$/../../Tries/LookingUpWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tries/LookingUpWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tries/Traversals/src/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tries/Traversals/src/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +75,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/media/abdurrahman/Developments/1. Fundamentals/DSA/Part2/Undirected Graphs/DijkstraSPA/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
