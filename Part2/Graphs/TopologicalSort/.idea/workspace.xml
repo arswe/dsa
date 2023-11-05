@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5be97f-639d-4301-a739-db6bc79927d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
@@ -14,7 +17,9 @@
       <change beforePath="$PROJECT_DIR$/../../AVL Trees/BuildingAVLTree/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AVL Trees/BuildingAVLTree/src/AVLTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AVL Trees/BuildingAVLTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AVL Trees/BuildingAVLTree/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AVL Trees/DetectingRotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AVL Trees/DetectingRotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Heap/BuildingHeap/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Heap/BuildingHeap/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Heap/BuildingHeap/.idea/misc.xml" beforeDir="false" />

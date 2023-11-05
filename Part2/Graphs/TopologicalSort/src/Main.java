@@ -13,10 +13,8 @@ public class Main {
         graph.addEdge("C", "E");
         graph.addEdge("D", "E");
 
-        graph.depthFirstTraversalRec("A");
-        System.out.println();
-        graph.depthFirstTraversalIter("A");
-        System.out.println();
-        graph.breadthFirstTraversal("A");
+        var list = graph.topologicalSort();
+        System.out.println(list);
+
     }
 }
