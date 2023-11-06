@@ -4,10 +4,12 @@ public class MergeSort {
 
         var middle = array.length / 2;
         int[] left = new int[middle];
-        System.arraycopy(array, 0, left, 0, middle);
+        for (var i = 0; i < middle; i++)
+            left[i] = array[i];
 
         int[] right = new int[array.length - middle];
-        if (array.length - middle >= 0) System.arraycopy(array, middle, right, 0, array.length - middle);
+        for (var i = middle; i < array.length; i++)
+            right[i - middle] = array[i];
 
         sort(left);
         sort(right);
