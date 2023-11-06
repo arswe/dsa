@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Linear Search!");
+        Search search = new Search();
+        int[] arr = {1, 2, 3, 4, 5};
+        int target = 3;
+        int result = search.linearSearch(arr, target);
+        System.out.println(result);
     }
 }
