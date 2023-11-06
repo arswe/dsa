@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c87ec34-ab05-4314-8bac-76ca0ce8d102" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TernarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" afterDir="false" />
@@ -53,6 +47,9 @@
       <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

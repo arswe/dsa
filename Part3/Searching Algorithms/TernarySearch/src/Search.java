@@ -1,20 +1,20 @@
 public class Search {
-    public int TernarySearch(int[] arr, int l, int r, int x) {
-        if (r >= l) {
-            int mid1 = l + (r - l) / 3;
-            int mid2 = r - (r - l) / 3;
-            if (arr[mid1] == x) {
+    public int TernarySearch(int[] arr, int target, int left, int right) {
+        if (right >= left) {
+            int mid1 = left + (right - left) / 3;
+            int mid2 = right - (right - left) / 3;
+            if (arr[mid1] == target) {
                 return mid1;
             }
-            if (arr[mid2] == x) {
+            if (arr[mid2] == target) {
                 return mid2;
             }
-            if (x < arr[mid1]) {
-                return TernarySearch(arr, l, mid1 - 1, x);
-            } else if (x > arr[mid2]) {
-                return TernarySearch(arr, mid2 + 1, r, x);
+            if (target < arr[mid1]) {
+                return TernarySearch(arr, target, left, mid1 - 1);
+            } else if (target > arr[mid2]) {
+                return TernarySearch(arr, target, mid2 + 1, right);
             } else {
-                return TernarySearch(arr, mid1 + 1, mid2 - 1, x);
+                return TernarySearch(arr, target, mid1 + 1, mid2 - 1);
             }
         }
         return -1;
