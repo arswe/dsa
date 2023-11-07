@@ -3,6 +3,9 @@ import java.util.Collections;
 
 public class ReverseWords {
     public static String reverseWords(String sentence) {
+        if (sentence == null)
+            return "";
+
         String[] words = sentence.trim().split(" ");
 //        StringBuilder reversed = new StringBuilder();
 //
