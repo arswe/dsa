@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2d7c85e-596d-4677-b69d-4c1805d81ed9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/HashTableGet/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/HashTableGet/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/HashTables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/HashTables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Linked Lists/Converting/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Linked Lists/Converting/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Linked Lists/IndexOf/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Linked Lists/IndexOf/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Queues/CircularArrays/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Queues/CircularArrays/src/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part1/Stacks/BalancedExpressions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Stacks/BalancedExpressions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/AVL Trees/BuildingAVLTree/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/AVL Trees/BuildingAVLTree/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/AVL Trees/BuildingAVLTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/AVL Trees/BuildingAVLTree/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/AVL Trees/DetectingRotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/AVL Trees/DetectingRotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Graphs/TopologicalSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Graphs/TopologicalSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/BuildingHeap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heap/BuildingHeap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/BuildingHeap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/BuildingHeap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/Heapify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Heaps/Heapify/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/.idea/HeapsRemove.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/BuildingHeap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/out/production/BuildingHeap/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/out/production/BuildingHeap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/src/Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/HeapsRemove/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Heaps/KthLargestItem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Heaps/KthLargestItem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Tries/AutoCompletion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Tries/AutoCompletion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Tries/LookingUpWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Tries/LookingUpWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Tries/Traversals/src/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Tries/Traversals/src/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Searching Algorithms/TernarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Searching Algorithms/TernarySearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2XpZgNTEtW3IDZbAgz9Xo7xl7yJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d7c85e-596d-4677-b69d-4c1805d81ed9" name="Changes" comment="" />
+      <created>1699328092530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699328092530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
