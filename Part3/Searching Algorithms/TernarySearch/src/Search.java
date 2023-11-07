@@ -10,6 +10,7 @@ public class Search {
         int partitionSize = (right - left) / 3;
         int mid1 = left + partitionSize;
         int mid2 = right - partitionSize;
+
         if (arr[mid1] == target) {
             return mid1;
         }
