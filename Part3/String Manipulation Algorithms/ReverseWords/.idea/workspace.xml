@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d7c85e-596d-4677-b69d-4c1805d81ed9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseWords.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Arrays/CreatingArrayClass/src/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1/Hash Tables/BuildHashTable/src/HashTable.java" afterDir="false" />
@@ -58,6 +52,8 @@
       <change beforePath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part2/Undirected Graphs/DijkstraSPA/src/WeightedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Searching Algorithms/TernarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Searching Algorithms/TernarySearch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sorting Algorithms/InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

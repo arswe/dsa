@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.StringJoiner;
 
 public class ReverseWords {
     public static String reverseWords(String sentence) {
@@ -13,7 +12,5 @@ public class ReverseWords {
 
         Collections.reverse(Arrays.asList(words));
         return String.join(" ", words);
-
-
     }
 }
