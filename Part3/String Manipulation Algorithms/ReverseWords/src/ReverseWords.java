@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class ReverseWords {
     public static String reverseWords(String sentence) {
-        String[] words = sentence.split(" ");
+        String[] words = sentence.trim().split(" ");
 //        StringBuilder reversed = new StringBuilder();
 //
 //        for (var i = words.length - 1; i >= 0; i--)
