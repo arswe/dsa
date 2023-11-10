@@ -1,8 +1,8 @@
-import java.util.HashMap;
-import java.util.Map;
-
 public class StringUtils {
     public static char getMaxOccuringChar(String str) {
+        if (str == null || str.isEmpty())
+            throw new IllegalArgumentException();
+
         int ASCII_SIZE = 256;
         int[] frequencies = new int[ASCII_SIZE];
 
