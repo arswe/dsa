@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Utils {
     public static boolean areAnagrams(String first, String second) {
 
-        if (first == null || second == null)
+        if (first == null || second == null || first.length() != second.length())
             return false;
 
         var array1 = first.toLowerCase().toCharArray();
