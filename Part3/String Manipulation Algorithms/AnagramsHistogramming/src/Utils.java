@@ -17,12 +17,9 @@ public class Utils {
             var index = second.charAt(i) - 'a';
             if (frequencies[index] == 0)
                 return false;
-
             frequencies[index]--;
         }
 
-
         return true;
-
     }
 }
