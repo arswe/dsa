@@ -15,9 +15,9 @@ public class SelectionSort {
 
     private int findMinIndex(int[] array, int index) {
         int minIndex = index;
-        for (int j = index; j < array.length; j++) {
+        for (int j = index; j < array.length; j++)
             if (array[j] < array[minIndex]) minIndex = j;
-        }
+
         return minIndex;
     }
 }
