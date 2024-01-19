@@ -3,6 +3,6 @@ public class Main {
         System.out.println(Utils.areAnagrams("listen", "silent"));
         System.out.println(Utils.areAnagrams("elbow", "below"));
         System.out.println(Utils.areAnagrams("elbow", "belows"));
-
+        System.out.println(Utils.areAnagrams("elbow", "belows"));
     }
 }
